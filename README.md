@@ -34,10 +34,10 @@ Este projeto é parte do evento Next Level Week (NLW) da Rocketseat. O objetivo 
 
 4. Inicie o servidor:
     ```bash
-    npm start
+    npm run dev
     ```
 
-5. Abra o navegador e acesse `http://localhost:3000`.
+5. Abra o navegador e acesse `http://localhost:5173`.
 
 ## Contribuição
 
